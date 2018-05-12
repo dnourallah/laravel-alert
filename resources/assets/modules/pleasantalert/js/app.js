@@ -1,0 +1,2 @@
+
+window.pAlert = require('pleasantalert');

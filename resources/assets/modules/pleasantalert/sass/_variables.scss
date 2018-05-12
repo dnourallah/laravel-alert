@@ -1,0 +1,12 @@
+
+// ANIMATIONS
+//https://daneden.github.io/animate.css
+//  animation: false,
+//  customClass: 'animated tada'
+$padn-show-animation: padn-show .3s;
+$padn-hide-animation: padn-hide .15s forwards;
+$padn-success-line-tip-animation: padn-animate-success-line-tip .75s;
+$padn-success-line-long-animation: padn-animate-success-line-long .75s;
+$padn-success-circular-line-animation: padn-rotate-success-circular-line 4.25s ease-in;
+$padn-error-icon-animation: padn-animate-error-icon .5s;
+$padn-error-x-mark-animation: padn-animate-error-x-mark .5s;
